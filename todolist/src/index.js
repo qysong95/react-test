@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import TodoList from './TodoList';
+import './style.css';
 // import './index.css';
 // import App from './App';
 // import registerServiceWorker from './registerServiceWorker';
